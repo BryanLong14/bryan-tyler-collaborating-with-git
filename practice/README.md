@@ -1,6 +1,6 @@
 ## Instructions
 
-Try out different workflows. Find a partner. One of you needs to copy the app folder to outside this repo and create a remote repository for you to work off of.
+Try out different workflows. Find a partner. One of you needs to copy the app folder to outside this repo and create a remote repository for you to work off of. Use [this app](https://random-task-generator.firebaseapp.com) to generate tasks to practice with. 
 
 ## Practices
 
