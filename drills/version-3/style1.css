@@ -1,5 +1,9 @@
 body {
   font-size: 5rem;
+  background-color: blue;
+  background-position: left;
+  font-family: fantasy, cursive;
+  z-index: -1;
 }
 
 h2 {
