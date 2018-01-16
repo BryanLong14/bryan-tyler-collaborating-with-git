@@ -21,4 +21,4 @@ Bryan - You should edit an HTML file. Add a recipe that you like using lists.
 Tyler -
 Bryan - Slack your partner. You should both edit five CSS properties.
 Tyler -
-Bryan -
+Bryan - Create an array of numbers in a Javascript file
