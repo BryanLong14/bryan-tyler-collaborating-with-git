@@ -20,3 +20,6 @@ var array = [
     age: 33
   }
 ]
+
+
+var arrayOfNumber = [2,4,5]
