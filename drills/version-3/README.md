@@ -15,7 +15,7 @@ Bryan - You should create a new HTML file. Link to it from index.html
 Tyler - You should edit an HTML file. Add a paragraph about something you like.
 Bryan - You should create an array of objects. Each object should have a name and age.
 Tyler -
-Bryan -
+Bryan - You should remove a file other than index.html.
 Tyler -
 Bryan -
 Tyler -
