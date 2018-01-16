@@ -30,3 +30,14 @@ function getSum(arr) {
 }
 
 getSum(arrayOfNumber);
+
+var newArray = [
+  {
+    name: "wizard-guy",
+    age: 667
+  },
+  {
+    name: "other-guy",
+    age: 4
+  }
+];

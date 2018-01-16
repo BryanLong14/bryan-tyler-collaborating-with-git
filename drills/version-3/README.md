@@ -20,5 +20,5 @@ Tyler - Slack your partner. You should both create a new CSS file. Link to it fr
 Bryan - You should edit an HTML file. Add a recipe that you like using lists.
 Tyler - Write a function that generates a sum.
 Bryan - Slack your partner. You should both edit five CSS properties.
-Tyler -
+Tyler - You should create an array of objects. Each object should have a name and age.
 Bryan - Create an array of numbers in a Javascript file
