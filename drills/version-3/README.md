@@ -14,7 +14,7 @@ Tyler - You should both create an array of numbers in a Javascript file, if ther
 Bryan - You should create a new HTML file. Link to it from index.html
 Tyler - You should edit an HTML file. Add a paragraph about something you like.
 Bryan - You should create an array of objects. Each object should have a name and age.
-Tyler -
+Tyler -You should create a new directory. Move at least one file into that directory.
 Bryan - You should remove a file other than index.html.
 Tyler -
 Bryan -
