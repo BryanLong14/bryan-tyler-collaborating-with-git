@@ -10,15 +10,15 @@ Work with a partner to edit a project and manage your changes with git.
 4. Once you've completed one task, slack your partner to start theirs. Do this 5 times.
 5. When you complete the process with working code, you should both submit the link to the repo.
 
-Tyler - You should both create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter.
-Bryan - You should create a new HTML file. Link to it from index.html
-Tyler - You should edit an HTML file. Add a paragraph about something you like.
-Bryan - You should create an array of objects. Each object should have a name and age.
-Tyler -You should create a new directory. Move at least one file into that directory.
-Bryan - You should remove a file other than index.html.
-Tyler - Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.
-Bryan - You should edit an HTML file. Add a recipe that you like using lists.
-Tyler - Write a function that generates a sum.
-Bryan - Slack your partner. You should both edit five CSS properties.
-Tyler - You should create an array of objects. Each object should have a name and age.
-Bryan - Create an array of numbers in a Javascript file
+Tyler - You should both create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter. <br>
+Bryan - You should create a new HTML file. Link to it from index.html<br>
+Tyler - You should edit an HTML file. Add a paragraph about something you like.<br>
+Bryan - You should create an array of objects. Each object should have a name and age.<br>
+Tyler -You should create a new directory. Move at least one file into that directory.<br>
+Bryan - You should remove a file other than index.html.<br>
+Tyler - Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.<br>
+Bryan - You should edit an HTML file. Add a recipe that you like using lists.<br>
+Tyler - Write a function that generates a sum.<br>
+Bryan - Slack your partner. You should both edit five CSS properties. <br>
+Tyler - You should create an array of objects. Each object should have a name and age.<br>
+Bryan - Create an array of numbers in a Javascript file<br>
