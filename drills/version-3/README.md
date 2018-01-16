@@ -19,6 +19,6 @@ Bryan - You should remove a file other than index.html.
 Tyler - Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.
 Bryan - You should edit an HTML file. Add a recipe that you like using lists.
 Tyler -
-Bryan -
+Bryan - Slack your partner. You should both edit five CSS properties.
 Tyler -
 Bryan -
