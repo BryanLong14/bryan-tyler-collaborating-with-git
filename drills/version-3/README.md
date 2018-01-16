@@ -17,7 +17,7 @@ Bryan - You should create an array of objects. Each object should have a name an
 Tyler -You should create a new directory. Move at least one file into that directory.
 Bryan - You should remove a file other than index.html.
 Tyler -
-Bryan -
+Bryan - You should edit an HTML file. Add a recipe that you like using lists.
 Tyler -
 Bryan -
 Tyler -
