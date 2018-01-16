@@ -16,7 +16,7 @@ Tyler - You should edit an HTML file. Add a paragraph about something you like.
 Bryan - You should create an array of objects. Each object should have a name and age.
 Tyler -You should create a new directory. Move at least one file into that directory.
 Bryan - You should remove a file other than index.html.
-Tyler -
+Tyler - Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.
 Bryan - You should edit an HTML file. Add a recipe that you like using lists.
 Tyler -
 Bryan -
