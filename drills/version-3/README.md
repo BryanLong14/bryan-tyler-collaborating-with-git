@@ -10,7 +10,7 @@ Work with a partner to edit a project and manage your changes with git.
 4. Once you've completed one task, slack your partner to start theirs. Do this 5 times.
 5. When you complete the process with working code, you should both submit the link to the repo.
 
-## Tyler - You should both create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter. <br>
+## Tyler - Both created an array of numbers in a Javascript file, if there isn't one. Wrote a funciton that multiplies them togehter. <br>
 ## Bryan - Created a new dogs.HTML file. Link to it from index.html<br>
 ## Tyler - Edited the dogs.HTML file. Add a paragraph about something you like.<br>
 ## Bryan - Created an array of objects. Each object has a name and age.<br>
